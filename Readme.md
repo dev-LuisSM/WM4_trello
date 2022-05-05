@@ -98,4 +98,4 @@ Tu opción opción: `, selection => {
 });
 ```
 
-*Nota: Este repositorio es de práctica, la documentación de Trello se encuentra [aquí](https://github.com/norberteder/trello)*
+*Nota: Este repositorio es de práctica, la documentación completa de Trello se encuentra [aquí](https://github.com/norberteder/trello).*
