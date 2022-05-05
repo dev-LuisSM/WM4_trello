@@ -1,0 +1,22 @@
+{
+  "name": "wm4_trello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-LuisSM/WM4_trello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-LuisSM/WM4_trello/issues"
+  },
+  "homepage": "https://github.com/dev-LuisSM/WM4_trello#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
